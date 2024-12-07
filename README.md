@@ -23,17 +23,16 @@ Homepage: <br/>
 <img src="https://i.imgur.com/k8I047L.png" height="80%" width="80%" alt="D&L Shop"/>
 <br />
 <br />
-<!--
-Browse the Inventory:  <br/>
-<img src="https://i.imgur.com/HD3oasl.png" height="80%" width="80%" alt="Add Items to Cart"/>
+Filter to your Liking:  <br/>
+<img src="https://i.imgur.com/AxpdHC1.png" height="80%" width="80%" alt="Add Items to Cart"/>
 <br />
 <br />
-View Cart and Checkout: <br/>
-<img src="https://i.imgur.com/hST3S9r.png" height="80%" width="80%" alt="Checkout"/>
+Add a Vehicle: <br/>
+<img src="https://i.imgur.com/6W6Z2bQ.png" height="80%" width="80%" alt="Checkout"/>
 <br />
 <br />
-Thank You For Your Order:  <br/>
-<img src="https://i.imgur.com/Ildk7sa.png" height="80%" width="80%" alt="Thank You Screen"/>
+View Added Car:  <br/>
+<img src="https://i.imgur.com/4nyBewG.png" height="80%" width="80%" alt="Thank You Screen"/>
 <br />
 <br />
 
